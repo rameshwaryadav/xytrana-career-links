@@ -1,6 +1,6 @@
 # Xytrana - Top 100 Tech Companies Job Portal
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/sites/xytrana/deploys)
+[![Netlify Status]](https://xytrana.netlify.app/)
 
 Xytrana is a clean, fast, and user-friendly static website designed to help job seekers find and apply to the top 100 tech companies in the world. It acts as a one-stop portal, providing direct, curated links to the official career pages of these companies, saving users time and effort.
 
