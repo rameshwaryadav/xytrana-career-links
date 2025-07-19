@@ -6,19 +6,6 @@ Xytrana is a clean, fast, and user-friendly static website designed to help job 
 
 ---
 
-## 🚀 Live Demo & Screenshots
-
-Here is a live demonstration of the website in action. The website is fully responsive and works seamlessly on all devices.
-
-![Live Demo of Xytrana](https://i.imgur.com/YOUR_GIF_ID.gif) 
-*(Note: Aapko is GIF ko neeche diye gaye steps se banakar upload karna hoga)*
-
-| Homepage                                     | Companies Grid                               | How It Works Section                           |
-| -------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
-| ![Homepage Screenshot](https://i.imgur.com/YOUR_IMAGE_1_ID.png) | ![Companies Grid Screenshot](https://i.imgur.com/YOUR_IMAGE_2_ID.png) | ![How It Works Screenshot](https://i.imgur.com/YOUR_IMAGE_3_ID.png) |
-
----
-
 ## ✨ Features
 
 - **Top 100 Companies:** A curated list of the most influential tech companies for 2025.
